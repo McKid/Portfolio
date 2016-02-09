@@ -1,0 +1,48 @@
+itle>My Portfolio Page</title>
+	<link rel="stylesheet" href="styles/main.css">
+	</head>head>
+<body>
+	<header>
+		<nav>
+<h2><DIV ALIGN=CENTER><strong>Charles Mitchell McBee</strong></DIV><</h2>
+
+<h3><DIV ALIGN=CENTER>Portfolio</DIV></h3>
+	<ul>Dgepja1963
+	
+	<li><a href="#">Home</a>a></li>
+	<li><a href="#">Professional Profile</a>a></li>
+	<li><a href="#">About</a>a></li>
+	<li><a href="#">Contact</a>a></li>
+	<li><a href="#">Links</a>a></li>
+	</ul>ul>
+	</nav>
+	</header>
+
+	<div class"row">
+		<div class="col">col1</div>
+		<div class="col">col2</div>
+		<div class="col">col3</div>
+		</div>
+	</body>
+
+
+<DIV ALIGN=CENTER>
+<img src="IMG_0067.jpg" alt="Mitch" style="width:258px;height:228px
+
+
+<h3>Profile</h3>
+	<ul>Wyncode Academy
+	<li>Languages and Frameworks: HTML, CSS and Javascript</li>
+	<li>Frameworks: Ruby on Rails, Sinatra and JQuery</li>
+
+	<meta charset="utf-8">	
+
+<p>
+Charles McBee is currently enrolled at Wyncode Academy. <div></div>Mr. McBee has experience in implementing and managing online academic programs, <br>leading strategic management teams, developing marketing inititiatives and <br>oversight of multi-million dollar budgets.
+</p>
+
+<a href="https://www.linkedin.com/in/charlesmcbee" target="_blank"><img src="linkedin-logo.jpg"></a>
+<a href="https://twitter.com/cmmcbee" target="_blank"><img src="twitterpic.jpg">
+</a>
+                                  		
+<body>
