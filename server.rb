@@ -6,7 +6,7 @@ require 'sinatra' #this is a gem that creates a web server
 #to my server and specifies nothing after the domain (myserver.com) then I want
 #to return the string "Hello World"
 
-get '/myprofile' do
+get '/' do
 	# redirect('index.html')
 	redirect('index.html')
 end
