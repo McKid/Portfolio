@@ -8,7 +8,8 @@ require 'sinatra' #this is a gem that creates a web server
 
 get '/' do
 	# redirect('index.html')
-	redirect('index.html')
+	# redirect('index.html')
+	'Hello WOrld!!'
 end
 
 	# "Hello World"
