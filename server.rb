@@ -8,7 +8,7 @@ require 'sinatra' #this is a gem that creates a web server
 
 get '/' do
 	# redirect('index.html')
-	File.read(File.join('Public','index.html'))
+	File.read(File.join('public','index.html'))
 	# 'Hello WOrld!!'
 end
 
